@@ -68,7 +68,7 @@ This is a fully functional online forum website built with the MERN stack and va
 
 ## Installation <a name="installation"></a>
 
-1. Clone the repository: `git clone https://github.com/your-username/online-forum-website.git`
+1. Clone the repository: `https://github.com/mohiqudraty/dev-point.git`
 2. Install dependencies:
    - For NPM: `npm install`
    - For Yarn: `yarn install`
