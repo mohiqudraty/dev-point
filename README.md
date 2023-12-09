@@ -1,8 +1,7 @@
 
 # Dev Point
 
-#### Live LInk:  https://dev-point-380a2.web.app/
-
+#### Visit the live website: [Dev Point](https://dev-point-380a2.web.app/)
 
 
 ## Online Forum Website
