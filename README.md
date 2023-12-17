@@ -76,14 +76,13 @@ This is a fully functional online forum website built with the MERN stack and va
    - Add your MongoDB connection string and any other necessary environment variables.
 4. Start the server:
    - For NPM: `npm run dev`
-   - For Yarn: `yarn dev`
 5. Open `http://localhost:3000` in your browser.
 
 ---
 
 ## Usage <a name="usage"></a>
 
-1. Register a new account or login with an existing account.
+1. Register a new account or log in with an existing account.
 2. Create new forums or browse existing ones.
 3. Start new topics or participate in existing discussions.
 4. Upvote and downvote posts and comments.
@@ -94,7 +93,7 @@ This is a fully functional online forum website built with the MERN stack and va
 
 ## Contribute <a name="contribute"></a>
 
-Feel free to fork the repository and contribute your own features and improvements. Pull requests are welcome!
+Feel free to fork the repository and contribute your features and improvements. Pull requests are welcome!
 
 
 
